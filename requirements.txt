@@ -11,9 +11,11 @@ django-crispy-forms==2.3
 django-filter==24.2
 django-froala-editor==4.3.1
 filelock==3.16.1
+gunicorn==23.0.0
 idna==3.7
 libretranslatepy==2.1.1
 lxml==5.2.2
+packaging==25.0
 pillow==10.2.0
 platformdirs==4.3.6
 PyPDF2==3.0.1
